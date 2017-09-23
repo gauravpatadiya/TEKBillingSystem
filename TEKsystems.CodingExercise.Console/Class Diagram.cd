@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TEKsystems.CodingExercise.Console.Domain.Cart">
+    <Position X="7.25" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Domain\Cart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TEKsystems.CodingExercise.Console.Domain.Product.BaseProduct">
+    <Position X="4.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAgACAAAAAAAQAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Product\BaseProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TEKsystems.CodingExercise.Console.Utility.Receipt">
+    <Position X="0.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAA=</HashCode>
+      <FileName>Utility\Receipt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TEKsystems.CodingExercise.Console.Domain.Product.Book" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Product\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TEKsystems.CodingExercise.Console.Domain.Product.Food" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Product\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TEKsystems.CodingExercise.Console.Domain.Product.Medical" Collapsed="true">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Product\Medical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TEKsystems.CodingExercise.Console.Domain.Product.Music" Collapsed="true">
+    <Position X="4.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Product\Music.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TEKsystems.CodingExercise.Console.Domain.Product.Perfume" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Product\Perfume.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TEKsystems.CodingExercise.Console.Domain.BaseDomain">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\BaseDomain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TEKsystems.CodingExercise.Console.Utility.Taxes">
+    <Position X="0.5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAIAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\Taxes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

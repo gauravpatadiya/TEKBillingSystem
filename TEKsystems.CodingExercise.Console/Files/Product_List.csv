@@ -1,0 +1,16 @@
+PRODUCT_ID,CODE,NAME,CATEGORY_TYPE,BASE_PRICE,IS_IMPORTED
+1,BK01,Harry Potter Part 1,Book,12.49,FALSE
+2,BK02,Harry Potter Part 2,Book,22,FALSE
+3,MS01,Music CD 1,Music,14.99,FALSE
+4,MS02,Music CD 2,Music,9.99,FALSE
+5,MS03,Music CD 3,Music,18.99,TRUE
+6,FD01,Chocolate bar Type 1,Food,0.85,FALSE
+7,FD02,Box of chocolates Type 1,Food,10,TRUE
+8,FD03,Box of chocolates Type 2,Food,11.25,TRUE
+9,PF01,Perfume Type 1,Perfume,47.5,TRUE
+10,PF02,Perfume Type 2,Perfume,27.99,TRUE
+11,PF03,Perfume Type 3,Perfume,18.99,FALSE
+12,MD01,Medicine 1,Medical,2.99,FALSE
+13,MD02,Medicine 2,Medical,0.88,FALSE
+14,MD03,Medicine 3,Medical,10.45,TRUE
+15,MD04,Packet of headache Pills,Medical,9.75,FALSE

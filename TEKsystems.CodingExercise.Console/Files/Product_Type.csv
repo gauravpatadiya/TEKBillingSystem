@@ -1,0 +1,6 @@
+PRODUCT_TYPE,IS_TAXABLE
+Book,FALSE
+Food,FALSE
+Medical,FALSE
+Music,TRUE
+Perfume,TRUE
